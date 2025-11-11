@@ -1,5 +1,5 @@
 
-# 🛒 ExpirySaver – A Sustainability e-Commerce Platform
+# ExpirySaver – A Sustainability e-Commerce Platform
 
 **Course:** CTIS 256 – Introduction to Backend Development  
 **Term:** Spring 2025  
@@ -9,13 +9,13 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 ExpirySaver is a multi-user web-based application designed to reduce food waste by helping markets sell products nearing expiration at discounted prices. This project aims to create a win-win situation for both markets and consumers while promoting sustainability.
 
 ---
 
-## 👥 User Roles
+## User Roles
 
 - **Market Users**
   - Register and manage store information
@@ -29,7 +29,7 @@ ExpirySaver is a multi-user web-based application designed to reduce food waste 
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Backend:** PHP
 - **Database:** MySQL
@@ -38,7 +38,7 @@ ExpirySaver is a multi-user web-based application designed to reduce food waste 
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 ├── app
@@ -93,7 +93,7 @@ README.md
 
 ---
 
-## ✅ Key Features
+## Key Features
 
 - Email-based registration with 6-digit confirmation codes
 - Role-based access control with session tracking
@@ -106,7 +106,7 @@ README.md
 
 ---
 
-## 🔐 Security Measures
+## Security Measures
 
 - CSRF protection with unique tokens in all forms
 - Input sanitization with `htmlspecialchars()` and server-side validation
@@ -115,7 +115,7 @@ README.md
 
 ---
 
-## 🧪 Setup Instructions
+## Setup Instructions
 
 1. Clone the repository:
    ```bash
