@@ -119,7 +119,7 @@ README.md
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ardasaritas/expirysaver.git
+   git clone https://github.com/ardasaritas/expiry_saver.git
    cd expirysaver
    ```
 
